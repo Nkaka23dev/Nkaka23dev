@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **The Ape unit and the GYM Rwanda Projects**
 
-- 👨‍💻 All of my projects are available at [https://nkaka.netlify.app/](https://nkaka.netlify.app/)
+- 👨‍💻 My portfolio [https://nkaka.netlify.app/](https://nkaka.netlify.app/)
 
 - 💬 Ask me about **Angular, ReactJs, NextJs and Django**
 
