@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/ericnkaka" target="blank"><img src="https://img.shields.io/twitter/follow/ericnkaka?logo=twitter&style=for-the-badge" alt="ericnkaka" /></a> </p> -->
 
-- 🔭 I’m currently working on **The Ape unit and the GYM Rwanda Projects**
+- 🔭 I’m currently working on **The GYM Rwanda and Ape unit Projects**
 
 - 👨‍💻 My portfolio [https://nkaka.netlify.app/](https://nkaka.netlify.app/)
 
-- 💬 Ask me about **Angular, ReactJs, NextJs and Django**
+- 💬 Ask me about ** ReactJS, NextJS Angular, Django and NodeJS**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
