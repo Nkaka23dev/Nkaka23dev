@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ericnkaka" target="blank"><img src="https://img.shields.io/twitter/follow/ericnkaka?logo=twitter&style=for-the-badge" alt="ericnkaka" /></a> </p> -->
 
-- 🔭 I’m currently working on **The GYM Rwanda and Ape unit Projects**
+- 🔭 I’m currently working on **The GYM Rwanda projects**
 
 - 👨‍💻 My portfolio [https://nkaka.netlify.app/](https://nkaka.netlify.app/)
 
