@@ -11,7 +11,7 @@
 
 - 👨‍💻 My portfolio [https://nkaka.netlify.app/](https://nkaka.netlify.app/)
 
-- 💬 Ask me about ** ReactJS, NextJS, Angular, Django and NodeJS**
+- 💬 Ask me about ** javaScript, ReactJS, NextJS, Angular,NodeJS, Python and Django **
 
 
 
