@@ -1,13 +1,13 @@
 ### Hi there , I' m Eric Nkaka
 
 ### 👨🏻‍💻 &nbsp;About Me
-I am passionate  about Web and Mobile app development and continuously expanding my skillset 🌱. I am seeking collaboration with other full-stack developers and have a goal for 2023 to contribute more to Open Source projects 🤝🏻. You can reach me at [(nkakaeric96@gmail.com](nkakaeric96@gmail.com) 📫 and feel free to review my [Résumé](https://www.hirwaaldo.com/assets/resume.pdf) for further information about me. I am open to receiving feedback and suggestions.
+I am passionate  about Web and Mobile app development and continuously expanding my skillset. I am seeking collaboration with other full-stack developers and have a goal for 2023 to contribute more to Open Source projects 🤝🏻. You can reach me at [(nkakaeric96@gmail.com](nkakaeric96@gmail.com)  and feel free to review my [Résumé](https://www.hirwaaldo.com/assets/resume.pdf) for further information about me. I am open to receiving feedback and suggestions.
 <!-- - 👀 I’m interested in Web and Mobile app development
-- 🌱 I’m currently working on The Gym Rwanda projects
-- 💞️ I’m looking to collaborate with other full stack developers
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- 📫 How to reach me [nkakaeric96@gmail.com](mailto:nkakaeric96@gmail.com)
-- 📄 &nbsp;Please have a look at my [Résumé](https://www.hirwaaldo1/resume.pdf) for more details about me. I'm open to feedback and suggestions! -->
+- I’m currently working on The Gym Rwanda projects
+- I’m looking to collaborate with other full stack developers
+- 2023 Goals: Contribute more to Open Source projects
+- How to reach me [nkakaeric96@gmail.com](mailto:nkakaeric96@gmail.com)
+- &nbsp;Please have a look at my [Résumé](https://www.hirwaaldo1/resume.pdf) for more details about me. I'm open to feedback and suggestions! -->
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
  -->
@@ -32,7 +32,7 @@ I am passionate  about Web and Mobile app development and continuously expanding
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<a href="https://github.com/hirwaaldo1">
+<a href="https://github.com/Nkaka23dev">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hirwaaldo1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hirwaaldo1&layout=compact&langs_count=8&theme=algolia"/>
 </a>
