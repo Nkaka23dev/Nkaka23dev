@@ -1,7 +1,7 @@
 ### Hi there , I' m Eric Nkaka
 
 ### 👨🏻‍💻 &nbsp;About Me
-I am passionate  about Web and Mobile app development and continuously expanding my skillset. I am seeking collaboration with other full-stack developers and have a goal for 2023 to contribute more to Open Source projects 🤝🏻. You can reach me at [(nkakaeric96@gmail.com](nkakaeric96@gmail.com)  and feel free to review my [Résumé](https://www.hirwaaldo.com/assets/resume.pdf) for further information about me. I am open to receiving feedback and suggestions.
+I am passionate  about Web and Mobile app development and continuously expanding my skillset. I am seeking collaboration with other full-stack developers and have a goal for 2023 to contribute more to Open Source projects 🤝🏻. You can reach me at [(nkakaeric96@gmail.com](nkakaeric96@gmail.com)
 <!-- - 👀 I’m interested in Web and Mobile app development
 - I’m currently working on The Gym Rwanda projects
 - I’m looking to collaborate with other full stack developers
@@ -18,35 +18,29 @@ I am passionate  about Web and Mobile app development and continuously expanding
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-FFC107?style=flat&logo=angular&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![TailwindCss](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <a href="https://github.com/Nkaka23dev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hirwaaldo1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hirwaaldo1&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nkaka23dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nkaka23dev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="left">
-<a href="https://www.hirwaaldo.com"><img src="https://img.shields.io/badge/-hirwaaldo.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/aldo-hirwa/"><img src="https://img.shields.io/badge/-HirwaAldo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:hirwaaldo1@gmail.com"><img src="https://img.shields.io/badge/-hirwaaldo1gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/aldo_hirwa"><img src="https://img.shields.io/badge/-@HirwaAldo-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.pinterest.com/hirwaaldo/"><img src="https://img.shields.io/badge/-@HirwaAldo-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-</p>
+
 
  
 
