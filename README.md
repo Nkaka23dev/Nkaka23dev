@@ -19,9 +19,6 @@ My passion lies in the field of Web and Mobile app development, and I am always 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-
-### ⚙️ &nbsp;GitHub Analytics
-
 <p align="left">
 <a href="https://github.com/Nkaka23dev">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nkaka23dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
