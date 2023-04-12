@@ -1,6 +1,5 @@
 ### I am Eric Nkaka
 
-### About Me
 My passion lies in the field of Web and Mobile app development, and I am always looking to enhance my skills. I am currently seeking to collaborate with other full-stack developers.. Feel free to reach out to me at https://nkaka.netlify.app/ 
 <!-- - 👀 I’m interested in Web and Mobile app development
 - I’m currently working on The Gym Rwanda projects
