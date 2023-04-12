@@ -1,7 +1,7 @@
 ### Hi there , I' m Eric Nkaka
 
 ### 👨🏻‍💻 &nbsp;About Me
-I am passionate  about Web and Mobile app development and continuously expanding my skillset. I am seeking collaboration with other full-stack developers and have a goal for 2023 to contribute more to Open Source projects 🤝🏻. You can reach me at [(nkakaeric96@gmail.com](nkakaeric96@gmail.com)
+My passion lies in the field of Web and Mobile app development, and I am always looking to enhance my skills. I am currently seeking to collaborate with other full-stack developers.. Feel free to reach out to me at[(nkakaeric96@gmail.com](nkakaeric96@gmail.com)
 <!-- - 👀 I’m interested in Web and Mobile app development
 - I’m currently working on The Gym Rwanda projects
 - I’m looking to collaborate with other full stack developers
