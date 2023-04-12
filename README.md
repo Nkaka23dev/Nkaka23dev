@@ -28,20 +28,9 @@ My passion lies in the field of Web and Mobile app development, and I am always 
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
-https://github.com/hirwaaldo1">
-https://github-readme-stats-eight-theta.vercel.app/api?username=hirwaaldo1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hirwaaldo1&layout=compact&langs_count=8&theme=algolia"/>
-https://www.hirwaaldo.com
-https://img.shields.io/badge/-hirwaaldo.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-https://www.linkedin.com/in/aldo-hirwa/"><img
-https://img.shields.io/badge/-HirwaAldo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-https://img.shields.io/badge/-hirwaaldo1gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-https://www.instagram.com/aldo_hirwa"><img
-https://img.shields.io/badge/-@HirwaAldo-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-https://www.pinterest.com/hirwaaldo/"><img
-https://img.shields.io/badge/-@HirwaAldo-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR-LINKEDIN-PROFILE-LINK)](http://www.linkedin.com/in/ENkaka/)
+[nkakaeric96@gmail.com](mailto:nkakaeric96@gmail.com)
+
 
 
 
