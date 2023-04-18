@@ -1,4 +1,4 @@
-### I am Eric Nkaka
+### I am Nkaka Eric
 
 My passion lies in the field of Web and Mobile app development, and I am always looking to enhance my skills. I am currently working on the Gym Rwanda projects. Feel free to reach out to me at https://nkaka.netlify.app/ 
 <!-- - 👀 I’m interested in Web and Mobile app development
