@@ -1,4 +1,4 @@
-### I am Eric Nkaka
+### My name is Eric Nkaka
 
 My passion lies in the field of Web and Mobile app development. Currently, I work as a Software Developer at Ojemba, where I continuously strive to enhance my skills. Available at: [nkakaeric96@gmail.com](mailto:nkakaeric96@gmail.com) 
 <!-- - 👀 I’m interested in Web and Mobile app development
