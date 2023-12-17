@@ -1,4 +1,4 @@
-###  Eric Nkaka
+### Nkaka
 
  Web and mobile app Engineer interested in AI. I work as a Software Developer at Ojemba, continuously striving to enhance my skills. Available at: [nkakaeric96@gmail.com](mailto:nkakaeric96@gmail.com) 
 <!-- - 👀 I’m interested in Web and Mobile app development
