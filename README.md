@@ -1,6 +1,6 @@
-### My name is Eric Nkaka
+###  Eric Nkaka
 
-I'm a web and mobile app developer interested in AI. Currently, I work as a Software Developer at Ojemba, where I continuously strive to enhance my skills. Available at: [nkakaeric96@gmail.com](mailto:nkakaeric96@gmail.com) 
+ Web and mobile app Engineer interested in AI. I work as a Software Developer at Ojemba, continuously striving to enhance my skills. Available at: [nkakaeric96@gmail.com](mailto:nkakaeric96@gmail.com) 
 <!-- - 👀 I’m interested in Web and Mobile app development
 - I’m currently working on The Gym Rwanda projects
 - I’m looking to collaborate with other full stack developers
