@@ -1,6 +1,12 @@
-### Nkaka
+### Eric Nkaka
+- Role:  Web and mobile app engineer
+- Favorite Language:  C++
+- Interests:  AI
+- Current Position: Software developer at Ojemba
+- Focus:  Continuously enhancing skills
+- Contact: [nkakaeric96@gmail.com](mailto:nkakaeric96@gmail.com) 
 
- Web and mobile app Engineer interested in AI. I work as a Software Developer at Ojemba, continuously striving to enhance my skills. Available at: [nkakaeric96@gmail.com](mailto:nkakaeric96@gmail.com) 
+<!-- Web and mobile app engineer with a passion for C++ and AI. Currently a software developer at Ojemba, continuously striving to enhance my skills. Available at: [nkakaeric96@gmail.com](mailto:nkakaeric96@gmail.com)--> 
 <!-- - 👀 I’m interested in Web and Mobile app development
 - I’m currently working on The Gym Rwanda projects
 - I’m looking to collaborate with other full stack developers
