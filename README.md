@@ -1,5 +1,5 @@
 ### Eric Nkaka
-- Role:  Web and mobile app engineer
+- Role:  Software engineer
 - Favorite Language:  C++
 - Interests:  AI
 - Current Position: Software developer at Ojemba
